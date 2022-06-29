@@ -8,4 +8,6 @@ Yo, its javaruntimes!
 </br>
 </br>
 </br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img align="center" alt="PNG" src="http://invidget.switchblade.xyz/BnRqXdzyHw"/>
+
+
+<img align="right" alt="PNG" src="http://invidget.switchblade.xyz/BnRqXdzyHw"/> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
