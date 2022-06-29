@@ -11,4 +11,5 @@ Yo, its javaruntimes!
 
 
 **Discord Server** (pls join)
+</br>
    [![](http://invidget.switchblade.xyz/BnRqXdzyHw)](https://discord.gg/BnRqXdzyHw)
