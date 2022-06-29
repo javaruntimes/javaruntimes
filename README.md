@@ -3,11 +3,7 @@
 <br />
 <br />
 
-<div>
-    <label for="pass">Password (8 characters minimum):</label>
-    <input type="password" id="pass" name="password"
-           minlength="8" required>
-</div>
+<label>Tell your sister I hate her in 9 months!</label>
 
- [<img align="right" height="340px" width= "510px" alt="GIF" src="https://i.imgur.com/Wo5AJnU.gif" />](https://www.reddit.com/u/AmritOnTop/)
+ [<img align="right" height="340px" width= "510px" alt="GIF" src="https://i.ibb.co/ZfN0mKY/image-2022-06-29-185115098.png"/>]()
  ##
