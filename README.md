@@ -6,7 +6,7 @@ Yo, its javaruntimes!
 
 <span> </span>
 <span> </span>
-<sp<span> </span>
+<span> </span>
 <span> </span>
 <span> </span>
 <span> </span>
