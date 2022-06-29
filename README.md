@@ -4,26 +4,9 @@ Yo, its javaruntimes!
 
 [<img align="center" alt="PNG" src="https://i.ibb.co/XDHQRXF/image-2022-06-29-185627215.png"/>]()
 
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
-<span> </span>
+</br>
+</br>
+</br>
+</br>
 
 [<img align="center" alt="PNG" src="http://invidget.switchblade.xyz/BnRqXdzyHw"/>]()
