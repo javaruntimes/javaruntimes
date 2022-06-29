@@ -4,4 +4,4 @@ Yo, its javaruntimes!
 
 [<img align="center" alt="GIF" src="https://i.ibb.co/XDHQRXF/image-2022-06-29-185627215.png"/>]()
 
-[<img align="center" alt="PNG" src="https://canary.discord.com/widget?id=991628496935858226&theme=dark"/>]()
+[<img align="center" src="https://canary.discord.com/widget?id=991628496935858226&theme=dark"/>]()
