@@ -10,4 +10,5 @@ Yo, its javaruntimes!
 </br>
 
 
- ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ<img align="left" alt="PNG" src="http://invidget.switchblade.xyz/BnRqXdzyHw"/>
+**Discord Server** (pls join)
+   [![](http://invidget.switchblade.xyz/BnRqXdzyHw)](https://discord.gg/BnRqXdzyHw)
