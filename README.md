@@ -10,4 +10,4 @@ Yo, its javaruntimes!
 </br>
 
 
-<img align="right" alt="PNG" src="http://invidget.switchblade.xyz/BnRqXdzyHw"/> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<img align="right" alt="PNG" src="http://invidget.switchblade.xyz/BnRqXdzyHw"/> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                 
