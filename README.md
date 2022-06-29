@@ -4,4 +4,4 @@ Yo, its javaruntimes!
 
 [<img align="center" alt="PNG" src="https://i.ibb.co/XDHQRXF/image-2022-06-29-185627215.png"/>]()
 
-[![Join The Discord server!](https://canary.discord.com/widget?id=991628496935858226&theme=dark)]()
+[![Join The Discord server!](http://invidget.switchblade.xyz/BnRqXdzyHw)]()
