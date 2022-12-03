@@ -8,7 +8,7 @@
 
   <p align="center">  
     <h1>Follow me on NameMC!</h1>
-    <a href="https://namemc.com/profile/javaruntimes.1/" target="_blank">
+    <a href="https://namemc.com/profile/javaruntimes.1/" target="_blank" rel="noopener noreferrer">
       <img src="https://crafatar.com/renders/body/1743be98814d4e7690c0751dcb902fc7">
     </a>
   </p>
